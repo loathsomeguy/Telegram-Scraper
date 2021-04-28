@@ -60,7 +60,9 @@
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://instagram.com/loathfaith/">
-  </a>
-  <a href="https://twitter.com/jeopardy4u">
+  <a href="https://twitter.com/jeopardy4u"><b>Twitter</b></a>
+  <span> - </span>
+  <a href="https://instagram.com/loathfaith"><b>Instagram</b></a>
+  <span> - </span>
+  <a href="https://github.com/loathsomeguy"><b>Tej's Page</b></a>
 </p>
