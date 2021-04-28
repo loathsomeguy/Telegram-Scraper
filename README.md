@@ -60,9 +60,9 @@
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://youtube.com/channel/UCnknCgg_3pVXS27ThLpw3xQ">
+  <a href="https://instagram.com/loathfaith/">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
-  <a href="https://twitter.com/th3unkn0n">
+  <a href="https://twitter.com/jeopardy4u">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/tw.png" width="40" height="40">
 </p>
