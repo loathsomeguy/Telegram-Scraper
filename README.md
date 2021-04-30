@@ -7,7 +7,7 @@
   <a href="https://github.com/th3unkn0n">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/th3unkn0n/TeleGram-Group-Scraper">
+  <a href="https://github.com/loathsomeguy/Telegram-Scraper.git">
     <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/loathsomeguy/Telegram-Scraper.git`
 
 `$ cd TeleGram-Scraper`
 
